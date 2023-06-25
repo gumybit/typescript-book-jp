@@ -47,8 +47,8 @@ var Point = (function () {
 
 ## 継承\(Inheritance\)
 
-TypeScriptにおけるクラスは\(他の言語のように\)`extends`キーワードを使った_単一_継承をサポートします:
-
+TypeScriptにおけるクラスは\(他の言語のように\)`extends`キーワードを使った _単一_ 継承をサポートします:
+ 
 ```typescript
 class Point3D extends Point {
     z: number;
